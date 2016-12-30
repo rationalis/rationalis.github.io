@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: Jimmy Ye
+  avatar: avatar.jpg
+  job: ""
+  bio: "Third-year undergrad at University of California, San Diego. Computer science, minor in mathematics. Planning to do research in machine learning."
   email:
   disqus-shortname:
   twitter: #username
@@ -48,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: rationalis
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  stackoverflow: 1277472/rationalis
+  linkedin: jimmy-ye-a3333b82
   skype: #username
   xing: #username
   instagram: #username
