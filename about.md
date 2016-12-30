@@ -10,7 +10,14 @@ in Computer Science, with a minor in mathematics, at
 contribute as much as I can to the (I believe) inevitable creation of artificial 
 general intelligence.
 
+I (will) use this blog primarily to post expositions on my own "work"; I use 
+the term loosely to describe any work (*n.* something done or made) which I 
+have dedicated time and effort into, which will usually consist of code or math 
+or both. Secondarily, I (will) post thoughts or opinions on any of a variety of 
+topics, including my personal life, technology, and philosophy (read: 
+unresolvable questions).
+
 A relatively up-to-date, online version of my résumé is available on 
-[my LinkedIn](https://www.linkedin.com/in/jimmy-ye-a3333b82). A definitely 
-up-to-date, single-page, PDF version of my résumé is available upon request. 
+[my LinkedIn](https://www.linkedin.com/in/jimmy-ye-a3333b82). A fully updated, 
+single-page, PDF version of my résumé is available upon request. 
 You can contact me at [jiy162@ucsd.edu](mailto:jiy162@ucsd.edu).
