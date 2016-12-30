@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: monachopsis
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: *n.* the subtle but persistent feeling of being out of place
 url: # the base hostname & protocol for your site
 
 
