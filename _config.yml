@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/Los_Angeles
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Jimmy Ye
   avatar: avatar.jpg
-  job: ""
-  bio: "Third-year undergrad at University of California, San Diego. Computer science, minor in mathematics. Planning to do research in machine learning."
+  job: "Undergraduate student at University of California, San Diego"
+  bio: "Third-year studying computer science, with a minor in mathematics. Planning to do research in machine learning."
   email:
   disqus-shortname:
   twitter: #username
