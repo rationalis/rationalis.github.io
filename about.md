@@ -4,19 +4,11 @@ title:  About Me
 permalink: /about/
 ---
 
-Hi, my name is Jimmy Ye, and I'm currently a fourth-year undergraduate,
-completing my BS in Computer Science, with a minor in mathematics, at
-[University of California, San Diego](http://ucsd.edu). My goal is to contribute
-as much as I can to the (I hope) inevitable creation of artificial general
-intelligence.
+Hi, my name is Jimmy Ye, and I'm a recent graduate of [University of California,
+San Diego](http://ucsd.edu), with a MS in Computer Science; I also obtained my
+BS in Computer Science, with a minor in mathematics, from UCSD in 2018.
 
-I use this blog primarily to post expositions on my own "work"; I use the term
-extremely loosely to describe any work (*n.* something done or made) which I
-have dedicated time and effort into, which will usually consist of code or math
-or both. Secondarily, I may post thoughts or opinions on any of a variety of
-topics, including my personal life, technology, politics, and philosophy.
-
-A relatively up-to-date, online version of my résumé is available
-on [my LinkedIn](https://www.linkedin.com/in/jimmy-ye-a3333b82). A fully
-updated, single-page, PDF version of my résumé is available upon request. You
-can contact me at [jiy162@ucsd.edu](mailto:jiy162@ucsd.edu).
+I hope to use this blog to write mostly about topics which are at least *partly*
+technical in nature. I'm personally most interested in developments towards
+artificial general intelligence, but my interests also range across many other
+fields of CS, mathematics, and more.
