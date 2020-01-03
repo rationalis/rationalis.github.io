@@ -171,24 +171,12 @@ As it turns out, information is a fundamental principle, not just of human
 activities, but, apparently, of the very fabric of the universe.[^5]
 
 
-[^1]: At any rate, it's certainly much harder to start talking about what
-quality subjective, conscious feelings (qualia) have which is beyond merely
-physical. For those who wish to disagree with the assertion, well, I will simply
-say that in your view of the world, not everything is information - but on the
-other hand, the stuff that's not information isn't a physically measurable
-thing, so I'm personally not much interested in it.
+[^1]: At any rate, it's certainly much harder to start talking about what quality subjective, conscious feelings (qualia) have which is beyond merely physical. For those who wish to disagree with the assertion, well, I will simply say that in your view of the world, not everything is information - but on the other hand, the stuff that's not information isn't a physically measurable thing, so I'm personally not much interested in it.
 
-[^2]: You can nitpick that it's a little more complex thanks to quantum physics,
-and possibly other physics stuff I'm not familiar with. Or maybe physics we
-don't even know about yet. It's not relevant to the argument, so long as we can
-assume that physical states are completely quantifiable.
+[^2]: You can nitpick that it's a little more complex thanks to quantum physics, and possibly other physics stuff I'm not familiar with. Or maybe physics we don't even know about yet. It's not relevant to the argument, so long as we can assume that physical states are completely quantifiable.
 
 [^3]: Up to some conversion factors. SI units treat bits as dimensionless.
 
-[^4]: We're nowhere close to those limits, and honestly, we might never get
-anywhere close. But the fact remains that such limits exist.
+[^4]: We're nowhere close to those limits, and honestly, we might never get anywhere close. But the fact remains that such limits exist.
 
-[^5]: Of course this is deliberately grandiose. The caveat is that you could
-really say this about a lot of things, like mathematics, or computers. In fact,
-this post is only the first of a series, hopefully, which covers many such
-ideas.
+[^5]: Of course this is deliberately grandiose. The caveat is that you could really say this about a lot of things, like mathematics, or computers. In fact, this post is only the first of a series, hopefully, which covers many such ideas.
