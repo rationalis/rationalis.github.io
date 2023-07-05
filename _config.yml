@@ -5,7 +5,7 @@
 #
 title: Jimmy Ye
 email:
-description: Blog of a recent graduate of University of California, San Diego, with MS in Computer science.
+description: Blog about programming, math, software engineering, science, and whatever else
 url: # the base hostname & protocol for your site
 
 
@@ -37,7 +37,7 @@ owner:
   avatar: avatar.jpg
   job: ""
   bio: "I spend way too much time reading about math and CS and tech and stuff."
-  email: jiy162@ucsd.edu
+  email: 
   disqus-shortname:
   twitter: #username
   facebook: #username
